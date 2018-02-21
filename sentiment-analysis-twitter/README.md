@@ -6,5 +6,8 @@ Polarity ranges from [-1, 1] where values towards 1 are positive sentiments wher
 
 Subjectivity ranges between [0, 1] and a subjective sentence may not express any sentiment. On the other hand an objective sentence may. The more subjective a sentence, the value tends towards 1.
 
-# Link to create Twitter Keys and Tokens to connect to the API
+### Link to create Twitter Keys and Tokens to connect to the API
 https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitter/
+
+### Link to TextBlob library documentation
+https://textblob.readthedocs.io/en/latest/index.html
